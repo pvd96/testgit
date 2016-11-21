@@ -1,2 +1,2 @@
 # testgit
-test
+Testing Github helps me to know how Github works.
